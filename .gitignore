@@ -100,3 +100,9 @@ x509.genkey
 all.config
 
 /net/wireguard/
+
+pmekernel.sh
+x509.genkey
+signing_key.x509
+signing_key.priv
+arch/arm64/boot/zImage
